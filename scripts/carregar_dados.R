@@ -23,3 +23,4 @@ acidentes_total <- rbind(
 
 # Verificar dimensão final
 dim(acidentes_total)
+
