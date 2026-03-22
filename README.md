@@ -12,6 +12,7 @@ Este projeto tem como objetivo realizar uma análise exploratória dos registros
 
 ## Dataset
 Os dados foram obtidos no portal de dados abertos da Polícia Rodoviária Federal (PRF).
+O dataset consolidado possui aproximadamente 342 mil registros e cerca de 30 variáveis.
 
 ## Estrutura do Projeto
 
