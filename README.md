@@ -25,3 +25,9 @@ O dataset consolidado possui aproximadamente 342 mil registros e cerca de 30 var
 - Python (pandas)
 - R (RStudio)
 - GitHub
+
+## Etapa 1
+
+A Etapa 1 do projeto contempla a definição do tema, escolha do dataset, organização do repositório e planejamento inicial da análise.
+
+O documento completo da etapa está disponível na pasta `/docs`.
