@@ -1,5 +1,12 @@
 # Projeto - Acidentes em Rodovias Federais
 
+## Integrantes
+
+- Adriana Vergara Ativo 
+- Francisco F. Dantas
+- Felipe Magalhães de Melo Costa
+- Gustavo Marcondes Modesto Freitas Arrebola
+
 ## Descrição
 Este projeto tem como objetivo realizar uma análise exploratória dos registros de acidentes em rodovias federais brasileiras no período de 2021 a 2025.
 
