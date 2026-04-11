@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Caminho base dos arquivos
-base_path = "data/"
+base_path = "../data/"
 
 # Leitura dos arquivos CSV
 acidentes2021 = pd.read_csv(base_path + "datatran2021.csv", sep=";", encoding="latin1")
