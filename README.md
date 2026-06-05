@@ -2,7 +2,6 @@
 
 ## Integrantes
 
-- Adriana Vergara Ativo 
 - Francisco Freitas Dantas
 - Felipe Magalhães de Melo Costa
 - Gustavo Marcondes Modesto Freitas Arrebola
