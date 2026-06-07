@@ -4,7 +4,7 @@
 
 A apresentação final do projeto está disponível no YouTube:
 
-🔗 https://youtu.be/rlPi6RkTj9U
+🔗 https://youtu.be/PHAlXFOS2GE
 
 Nesta apresentação são abordados o contexto do problema, os dados utilizados, a análise exploratória realizada e os principais resultados obtidos.
 
