@@ -1,33 +1,91 @@
-# Projeto - Acidentes em Rodovias Federais
+# Projeto Aplicado I – Análise de Acidentes em Rodovias Federais Brasileiras (2021–2025)
+
+## 🎥 Apresentação em Vídeo
+
+A apresentação final do projeto está disponível no YouTube:
+
+🔗 https://youtu.be/rlPi6RkTj9U
+
+Nesta apresentação são abordados o contexto do problema, os dados utilizados, a análise exploratória realizada e os principais resultados obtidos.
 
 ## Integrantes
 
-- Adriana Vergara Ativo 
 - Francisco Freitas Dantas
 - Felipe Magalhães de Melo Costa
 - Gustavo Marcondes Modesto Freitas Arrebola
 
-## Descrição
-Este projeto tem como objetivo realizar uma análise exploratória dos registros de acidentes em rodovias federais brasileiras no período de 2021 a 2025.
+## Objetivo
+
+Identificar padrões de ocorrência dos acidentes registrados nas rodovias federais brasileiras entre 2021 e 2025, utilizando dados públicos disponibilizados pela Polícia Rodoviária Federal (PRF).
+
+## Problema de Pesquisa
+
+Os acidentes registrados nas rodovias federais brasileiras apresentam padrões identificáveis relacionados ao tempo, localização, condições meteorológicas, tipos de acidentes e gravidade das ocorrências?
 
 ## Dataset
-Os dados foram obtidos no portal de dados abertos da Polícia Rodoviária Federal (PRF).
-O dataset consolidado possui aproximadamente 342 mil registros e cerca de 30 variáveis.
+
+**Fonte:** Polícia Rodoviária Federal (PRF) – Dados Abertos
+
+**Período analisado:** 2021 a 2025
+
+**Quantidade de registros:** aproximadamente 342 mil acidentes
+
+**Natureza dos dados:** pública e anonimizada
+
+## Principais Análises
+
+- Evolução dos acidentes ao longo dos anos
+- Top 10 estados com maior número de acidentes
+- Tipos de acidentes mais frequentes
+- Acidentes por condição meteorológica
+- Acidentes por fase do dia
+- Gravidade das ocorrências
 
 ## Estrutura do Projeto
 
-- data/: arquivos CSV dos acidentes
-- scripts/: scripts de carregamento e análise dos dados
-- docs/: documentação do projeto
+```text
+projeto-acidentes-rodovias/
+│
+├── data/
+│   └── datasets da PRF (2021–2025)
+│
+├── scripts/
+│   └── tratamento e análise dos dados
+│
+├── graficos/
+│   └── visualizações geradas para o projeto
+│
+├── docs/
+│   ├── documento da etapa
+│   └── apresentação final
+│
+└── README.md
+```
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
-- Python (pandas)
-- R (RStudio)
+- Python
+- Pandas
+- Matplotlib
+- R
+- RStudio
 - GitHub
 
-## Etapa 1
+## Resultados
 
-A Etapa 1 do projeto contempla a definição do tema, escolha do dataset, organização do repositório e planejamento inicial da análise.
+A análise permitiu identificar tendências temporais, concentração geográfica dos acidentes, predominância de determinados tipos de ocorrência e fatores associados às condições climáticas, horários e gravidade dos acidentes.
 
-O documento completo da etapa está disponível na pasta `/docs`.
+Entre os principais achados destacam-se:
+
+- Crescimento dos registros de acidentes ao longo do período analisado
+- Concentração das ocorrências em determinados estados brasileiros
+- Predominância de colisões traseiras entre os tipos de acidentes
+- Maior número de registros em condições de céu claro
+- Predomínio de ocorrências durante o período diurno
+- Maior quantidade de pessoas ilesas ou com ferimentos leves
+
+## Sobre o Projeto
+
+Este repositório reúne os códigos, gráficos, documentação e materiais desenvolvidos durante o Projeto Aplicado I da disciplina de Ciência de Dados do curso de Tecnologia em Banco de Dados do Mackenzie.
+
+Os resultados apresentados têm caráter acadêmico e foram produzidos a partir da análise exploratória de dados públicos disponibilizados pela Polícia Rodoviária Federal.
