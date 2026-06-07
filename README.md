@@ -1,5 +1,13 @@
 # Projeto Aplicado I – Análise de Acidentes em Rodovias Federais Brasileiras (2021–2025)
 
+## 🎥 Apresentação em Vídeo
+
+A apresentação final do projeto está disponível no YouTube:
+
+🔗 https://youtu.be/rlPi6RkTj9U
+
+Nesta apresentação são abordados o contexto do problema, os dados utilizados, a análise exploratória realizada e os principais resultados obtidos.
+
 ## Integrantes
 
 - Francisco Freitas Dantas
