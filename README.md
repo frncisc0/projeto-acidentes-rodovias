@@ -8,9 +8,9 @@
 
 > **Adicione aqui uma imagem do dashboard** (ex.: `powerbi/Dashboard_PRF_2021_2025.png`).
 
-```markdown
+markdown
 ![Dashboard](powerbi/Dashboard_PRF_2021_2025.png)
-```
+
 
 ---
 
