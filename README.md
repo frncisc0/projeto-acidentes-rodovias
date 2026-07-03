@@ -1,10 +1,10 @@
-# 📊 Projeto Aplicado I – Análise de Acidentes em Rodovias Federais Brasileiras (2021–2025)
+# Projeto Aplicado I – Análise de Acidentes em Rodovias Federais Brasileiras (2021–2025)
 
 > Projeto desenvolvido na disciplina de Projeto Aplicado I do curso de Tecnologia em Banco de Dados da Universidade Presbiteriana Mackenzie, utilizando dados públicos da Polícia Rodoviária Federal (PRF) para identificar padrões de acidentes nas rodovias federais brasileiras entre os anos de 2021 e 2025.
 
 ---
 
-## 📷 Dashboard
+## Dashboard
 
 
 ![Dashboard](powerbi/Dashboard_PRF_2021_2025.png)
@@ -12,11 +12,11 @@
 > Dashboard desenvolvido em Power BI como complemento ao Projeto Aplicado I, consolidando os principais resultados da Análise Exploratória de Dados realizada com Python.
 ---
 
-# 🎥 Apresentação em Vídeo
+# Apresentação em Vídeo
 
 A apresentação final do projeto está disponível no YouTube.
 
-🔗 https://youtu.be/PHAlXFOS2GE
+https://youtu.be/PHAlXFOS2GE
 
 Durante a apresentação são abordados:
 
@@ -29,7 +29,7 @@ Durante a apresentação são abordados:
 
 ---
 
-# 👥 Integrantes
+# Integrantes
 
 - Francisco Freitas Dantas
 - Felipe Magalhães de Melo Costa
@@ -37,19 +37,19 @@ Durante a apresentação são abordados:
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Analisar os registros de acidentes ocorridos nas rodovias federais brasileiras entre os anos de 2021 e 2025, buscando identificar padrões temporais, geográficos e comportamentais que possam contribuir para uma melhor compreensão das ocorrências registradas pela Polícia Rodoviária Federal.
 
 ---
 
-# ❓ Problema de Pesquisa
+# Problema de Pesquisa
 
 Os acidentes registrados nas rodovias federais brasileiras apresentam padrões identificáveis relacionados ao tempo, localização, causas, condições meteorológicas, tipos de acidentes e gravidade das ocorrências?
 
 ---
 
-# 📂 Base de Dados
+# Base de Dados
 
 **Fonte:**
 
@@ -75,7 +75,7 @@ Dados públicos e anonimizados.
 
 ---
 
-# 📊 Principais Análises Realizadas
+# Principais Análises Realizadas
 
 Durante a Análise Exploratória de Dados (AED) foram desenvolvidas análises sobre:
 
@@ -89,7 +89,7 @@ Durante a Análise Exploratória de Dados (AED) foram desenvolvidas análises so
 
 ---
 
-# 📈 Dashboard Interativo (Power BI)
+# Dashboard Interativo (Power BI)
 
 Como contribuição complementar ao projeto e com o objetivo de aprofundar os estudos em Business Intelligence e visualização de dados, **Francisco Freitas Dantas** desenvolveu um dashboard interativo em **Power BI**, reunindo os principais indicadores obtidos durante a Análise Exploratória de Dados.
 
@@ -105,10 +105,6 @@ O dashboard apresenta:
 
 Os arquivos do dashboard encontram-se na pasta:
 
-```text
-powerbi/
-```
-
 Disponíveis nos formatos:
 
 - Dashboard_PRF_2021_2025.pbix
@@ -116,7 +112,7 @@ Disponíveis nos formatos:
 
 ---
 
-# 💡 Principais Insights
+# Principais Insights
 
 A análise permitiu identificar diversos padrões relevantes, entre eles:
 
@@ -130,7 +126,7 @@ A análise permitiu identificar diversos padrões relevantes, entre eles:
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Python
 - Pandas
@@ -143,7 +139,7 @@ A análise permitiu identificar diversos padrões relevantes, entre eles:
 
 ---
 
-# 📁 Estrutura do Projeto
+# Estrutura do Projeto
 
 ```text
 projeto-acidentes-rodovias/
