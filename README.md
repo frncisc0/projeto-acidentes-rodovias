@@ -7,7 +7,7 @@
 ## Dashboard
 
 
-![Dashboard](powerbi/Dashboard_PRF_2021_2025.png)
+![Dashboard](powerbi/Dashboard_PRF_2021-2025.png)
 
 > Dashboard desenvolvido em Power BI como complemento ao Projeto Aplicado I, consolidando os principais resultados da Análise Exploratória de Dados realizada com Python.
 ---
