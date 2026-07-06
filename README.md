@@ -167,7 +167,7 @@ projeto-acidentes-rodovias/
 
 ---
 
-# 🚀 Competências Desenvolvidas
+# Competências Desenvolvidas
 
 Durante o desenvolvimento deste projeto foram aplicados conhecimentos em:
 
@@ -183,7 +183,7 @@ Durante o desenvolvimento deste projeto foram aplicados conhecimentos em:
 
 ---
 
-# 📚 Considerações Finais
+# Considerações Finais
 
 Este projeto proporcionou uma visão abrangente sobre os acidentes registrados nas rodovias federais brasileiras, demonstrando como técnicas de análise exploratória e visualização de dados podem transformar grandes volumes de informações em conhecimento útil para apoio à tomada de decisão.
 
